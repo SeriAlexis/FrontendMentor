@@ -34,8 +34,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
-- CSS Grid
+- CSS Grid and Flexbox
 - JavaScript (ES6)
 
 ### AI Collaboration
